@@ -1,0 +1,13 @@
+.nav-item {
+    font-size: 16px;
+    font-weight: 500;    
+}
+
+.contents {
+    max-width: 1140px;
+    margin: auto;
+}
+
+.search-form {
+    margin-left: 20px;
+}
